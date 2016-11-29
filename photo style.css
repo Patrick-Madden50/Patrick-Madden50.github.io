@@ -1,0 +1,20 @@
+body {background: lightyellow;
+color: darkred;
+font-size: 21pt;}
+
+nav li {display:inline-block}
+
+
+nav li {border:5px solid darkred}
+
+
+IMG {border:10px solid sienna}
+
+
+
+
+
+
+a {color: darkblue;
+text-decoration: none}
+a:hover{color:blue} 

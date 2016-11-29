@@ -1,0 +1,20 @@
+body {background: orange;
+color: black;
+font-size: 30pt;}
+
+nav li {display:inline-block}
+
+
+nav li {border:5px solid darkred}
+
+
+
+
+
+
+
+
+
+a {color: darkblue;
+text-decoration: none}
+a:hover{color:blue} 
